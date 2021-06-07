@@ -5,6 +5,14 @@ Actions  workflows/xxx.yml
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Actions
+
+```js
+    - name: add process.json
+      run: |
+        echo '{ script: "serve", env: { PM2_SERVE_SPA: "true", PM2_SERVE_HOMEPAGE: "/index.html" } }' >> build/process.json
+```
+
 ## Azure
 
 執行階段堆疊
