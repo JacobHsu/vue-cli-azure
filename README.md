@@ -5,6 +5,13 @@ Actions  workflows/xxx.yml
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Azure
+
+執行階段堆疊
+`Node 12 LTS`
+作業系統
+`Linux`
+
 ## Available Scripts
 
 In the project directory, you can run:
