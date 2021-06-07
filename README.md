@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Settings  發行設定檔
+Actions  workflows/xxx.yml
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
